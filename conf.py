@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 import sphinx_rtd_theme
-project = 'Mikrotik API'
+project = 'My Project'
 copyright = '2022, PT Jinom Network Indonesia'
-author = 'Rupadana'
+author = 'JinomDev'
 
 
 # -- General configuration ---------------------------------------------------
