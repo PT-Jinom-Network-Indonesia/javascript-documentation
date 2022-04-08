@@ -1,0 +1,21 @@
+{
+  "name": "javascript_doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rst": "jsdoc -c jsdoc.json",
+    "docs:html": "make html",
+    "docs": "npm run rst && npm run docs:html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "~3.6.10"
+  },
+  "devDependencies": {
+    "requirejs": "~2.1.14",
+    "underscore": "~1.6.0",
+    "jsdoc": "~3.6.10"
+  }
+}
